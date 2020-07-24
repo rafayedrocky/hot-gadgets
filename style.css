@@ -1,0 +1,56 @@
+.container{
+    margin: 100px;
+}
+.lemon-bg{
+    background-color:white;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.down{
+    margin-bottom: 50px;
+}
+.price{
+    color:black;
+}
+.card-title{
+    font-weight: 700;
+}
+.category-section {
+    margin-bottom: 80px;
+}
+
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}  
+
+.category-item {
+    padding:  20px 20px;
+}
+
+ 
+    
